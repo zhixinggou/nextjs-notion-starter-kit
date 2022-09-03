@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '鲸落的脑中世界',
-  domain: 'www.jingluo.com',
+  domain: 'https://www.notion.so/613abf8a2c8642588ff12b151ff0788e',
   author: '鲸落',
 
   // open graph metadata (optional)
